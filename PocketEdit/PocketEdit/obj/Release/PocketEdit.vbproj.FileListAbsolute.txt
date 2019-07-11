@@ -1,0 +1,12 @@
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.AboutDialog.resources
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.Form1.resources
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.Resources.resources
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.vbproj.GenerateResource.Cache
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\bin\Release\PocketEdit.exe
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\bin\Release\PocketEdit.pdb
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\bin\Release\PocketEdit.xml
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\bin\Release\FastColoredTextBox.dll
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.exe
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.xml
+C:\Users\rcomp\Desktop\PocketEdit\PocketEdit\obj\Release\PocketEdit.pdb
